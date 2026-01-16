@@ -1,7 +1,3 @@
-**Markdown format, no emoji, and no hyphens**
-
----
-
 # Unity URP Texture Packer
 
 A simple Unity Editor tool that packs Metallic and Roughness textures into a single Unity compatible texture for use with the URP Lit shader.
