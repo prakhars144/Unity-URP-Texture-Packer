@@ -1,5 +1,3 @@
-Got it. Here is the README rewritten exactly as requested:
-
 **Markdown format, no emoji, and no hyphens**
 
 ---
